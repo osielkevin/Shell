@@ -1,5 +1,7 @@
 # Shell
 
-To compile please type gcc -Wall main.c -o program 
-
+To compile please type:
+make 
+To run type
+make run 
 This program does what command console does on ubuntu. 
